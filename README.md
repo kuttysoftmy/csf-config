@@ -7,7 +7,7 @@ This script installs and configures csf according to the best practices.
 ## Installation
 
 ```bash
-wget https://raw.githubusercontent.com/kuttysoftmy/csf-config/master/install_cpanel.sh -O ./install_cpanel.sh && bash install_cpanel.sh
+wget https://raw.githubusercontent.com/kuttysoftmy/csf-config/master/csfconfig.sh -O ./csfconfig.sh && bash csfconfig.sh
 ```
 
 ## NOTE: Install only on CentOS 7 Minimal
